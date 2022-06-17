@@ -1,2 +1,2 @@
-# until_rs
-rust 工具库 rust
+# until_ezw_rs
+rust EZW工具库 rust
